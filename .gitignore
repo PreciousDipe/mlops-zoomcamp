@@ -1,0 +1,11 @@
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Anaconda installer
+Anaconda3-*.sh
+
+# Database files
+*.db
+
+# MLflow runs folder
+mlruns/
